@@ -1,4 +1,6 @@
-features/*
-results/*
+features/test_fc6_16_overlap0.5_denseflow
+features/val_fc6_16_overlap0.5_denseflow
+features/test_fc6_16_overlap0.5_denseflow.tar
+features/val_fc6_16_overlap0.5_denseflow.tar
 .idea/
 .ipynb_checkpoints/
