@@ -1,4 +1,4 @@
-features/
-results/
+features/*
+results/*
 .idea/
 .ipynb_checkpoints/
